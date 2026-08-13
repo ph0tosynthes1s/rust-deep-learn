@@ -1,0 +1,5 @@
+/Users/admin/Desktop/my_git/go-deep/rust-deep/3-lesson/guessing_game/target/debug/deps/guessing_game-7f4ea30702a5cf68.d: src/main.rs
+
+/Users/admin/Desktop/my_git/go-deep/rust-deep/3-lesson/guessing_game/target/debug/deps/guessing_game-7f4ea30702a5cf68: src/main.rs
+
+src/main.rs:
